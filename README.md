@@ -421,6 +421,8 @@ Understanding and managing customer insights are essential for creating value an
 
 - **Market Segmentation**: Dividing a market into smaller segments with unique needs, characteristics, or behavior requiring specific marketing strategies.
 
+![image](https://github.com/user-attachments/assets/01d7917b-2478-4eaf-b8e4-03a1d6448ab9)
+
 ---
 
 ### Market Segmentation Approaches
@@ -431,11 +433,16 @@ Understanding and managing customer insights are essential for creating value an
 4. **Behavioral Segmentation**: Segments based on knowledge, attitudes, uses, or responses to a product, including occasions, benefits sought, usage rate, and loyalty status.
 5. **Multiple Segmentation Bases**: Combines various segmentation methods for more precise target groups.
 
+![image](https://github.com/user-attachments/assets/6dd4320c-064f-4df9-a050-f9411051a6ca)
+
+
 ---
 
 ### International Market Segmentation
 
 - **Intermarket Segmentation**: Groups consumers with similar needs and buying behaviors across countries.
+
+![image](https://github.com/user-attachments/assets/88d3fa55-5e7e-486e-95b0-6ea7a551935e)
 
 ---
 
@@ -506,6 +513,8 @@ This README serves as a quick reference for understanding key marketing concepts
 
 ### License
 This content is provided for educational and informational purposes.
+
+![image](https://github.com/user-attachments/assets/9ac9110c-86a9-4dd0-82a4-695466593aa3)
 
 
 
