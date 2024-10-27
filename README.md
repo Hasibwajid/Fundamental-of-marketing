@@ -1,4 +1,4 @@
-# Fundamental-of-marketing
+![image](https://github.com/user-attachments/assets/fd3ad696-3df6-4d10-a926-e4d11f96b3fc)# Fundamental-of-marketing
 
 
 ----------------------------------------------------------------------------------------------------------------------
@@ -90,9 +90,9 @@ Marketing is the process by which companies create value for customers and build
 
 ---
 
-# Company and Marketing Strategy: Partnering to Build Customer Relationships
+# Chapter 2: Company and Marketing Strategy: Partnering to Build Customer Relationships
 
-## Chapter 2: Companywide Strategic Planning
+## Companywide Strategic Planning
 
 ### Overview
 Strategic planning is the process of developing and maintaining a strategic fit between the organization’s goals and capabilities and its changing marketing opportunities.
@@ -143,6 +143,10 @@ Strategic planning is the process of developing and maintaining a strategic fit 
 - **Marketing Mix**: The set of controllable marketing tools—Product, Price, Place, and Promotion—that a company uses to elicit the desired response from the target market.
 
 ---
+
+![image](https://github.com/user-attachments/assets/8d91586e-3d72-4d7a-a4a8-23f2c5bc29ae)
+
+![image](https://github.com/user-attachments/assets/d7391aeb-42f3-412a-b7b8-a3037b8f2d70)
 
 ### Managing the Marketing Effort
 
