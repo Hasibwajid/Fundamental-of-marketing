@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fd3ad696-3df6-4d10-a926-e4d11f96b3fc)# Fundamental-of-marketing
+# Fundamental-of-marketing
 
 
 ----------------------------------------------------------------------------------------------------------------------
