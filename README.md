@@ -3,9 +3,9 @@
 
 ----------------------------------------------------------------------------------------------------------------------
 
-# Marketing: Creating and Capturing Customer Value
+# Chapter 1: Marketing: Creating and Capturing Customer Value
 
-## Chapter 1: What Is Marketing?
+## What Is Marketing?
 
 ### Overview
 Marketing is the process by which companies create value for customers and build strong relationships to capture value in return.
