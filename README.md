@@ -12,7 +12,12 @@ Marketing is the process by which companies create value for customers and build
 
 ---
 
+![image](https://github.com/user-attachments/assets/146260e4-fb05-4124-9e06-665d43a89003)
+
+---
 ### Understanding the Marketplace and Customer Needs
+
+![image](https://github.com/user-attachments/assets/35050803-8ca7-4365-badc-96ceb1616601)
 
 - **Market Offerings**: A combination of products, services, information, or experiences offered to satisfy customer needs or wants.
 - **Marketing Myopia**: Focusing only on existing customer wants and losing sight of the underlying needs.
@@ -37,6 +42,11 @@ Marketing is the process by which companies create value for customers and build
 3. **Selling Concept**: Consumers will not buy enough products without aggressive selling and promotion.
 4. **Marketing Concept**: Achieving goals by understanding and satisfying target market needs better than competitors.
 5. **Societal Marketing Concept**: Making decisions that consider consumer wants, company requirements, and long-term societal welfare.
+
+![image](https://github.com/user-attachments/assets/1d983020-ca68-47cb-b773-24c88ee8c144)
+
+
+![image](https://github.com/user-attachments/assets/68a7b546-8fe6-43ff-abf7-12627e784871)
 
 ---
 
