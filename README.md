@@ -84,6 +84,10 @@ Marketing is the process by which companies create value for customers and build
 
 ---
 
+![image](https://github.com/user-attachments/assets/4a4d90a5-b1bf-49c0-b429-6afcd172f2f1)
+
+---
+
 ### Usage
 This README serves as a quick reference for understanding key marketing concepts and strategies essential to creating and capturing customer value.
 
